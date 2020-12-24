@@ -1,4 +1,4 @@
-1. [Nazwa Questa, Spella, objektu itp.]:
-2. [ID]:
-3. [Opis błędu]:
-4. [Link wowhead]:
+**1.** _[Nazwa Questa, Spella, objektu itp.]_:
+**2.** _[ID]_:
+**3.** _[Opis błędu]_:
+**4.** _[Link wowhead]_:
