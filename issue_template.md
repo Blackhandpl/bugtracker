@@ -1,4 +1,4 @@
-1. (Nazwa Questa, Spella, objektu itp.): 
+1. (Name of Quest, Spell, object etc.): 
 2. (ID): 
-3. (Opis błędu): 
-4. (Link wowhead): 
+3. (Description): 
+4. (Wowhead link): 
